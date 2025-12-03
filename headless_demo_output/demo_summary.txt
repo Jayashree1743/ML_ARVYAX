@@ -1,0 +1,66 @@
+Frame 001/060 -- State: SAFE    -- Distance: 125 px 
+Frame 002/060 -- State: SAFE    -- Distance: 154 px 
+Frame 003/060 -- State: SAFE    -- Distance: 180 px 
+Frame 004/060 -- State: SAFE    -- Distance: 201 px 
+Frame 005/060 -- State: SAFE    -- Distance: 215 px 
+Frame 006/060 -- State: SAFE    -- Distance: 220 px 
+Frame 007/060 -- State: SAFE    -- Distance: 215 px 
+Frame 008/060 -- State: SAFE    -- Distance: 201 px 
+Frame 009/060 -- State: SAFE    -- Distance: 180 px 
+Frame 010/060 -- State: SAFE    -- Distance: 154 px 
+Frame 011/060 -- State: SAFE    -- Distance: 125 px 
+Frame 012/060 -- State: WARNING -- Distance:  95 px 
+Frame 013/060 -- State: WARNING -- Distance:  69 px 
+Frame 014/060 -- State: DANGER  -- Distance:  48 px 
+Frame 015/060 -- State: DANGER  -- Distance:  34 px 
+Frame 016/060 -- State: DANGER  -- Distance:  30 px 
+Frame 017/060 -- State: DANGER  -- Distance:  34 px 
+Frame 018/060 -- State: DANGER  -- Distance:  48 px 
+Frame 019/060 -- State: WARNING -- Distance:  69 px 
+Frame 020/060 -- State: WARNING -- Distance:  95 px 
+Frame 021/060 -- State: SAFE    -- Distance: 124 px 
+Frame 022/060 -- State: SAFE    -- Distance: 154 px 
+Frame 023/060 -- State: SAFE    -- Distance: 180 px 
+Frame 024/060 -- State: SAFE    -- Distance: 201 px 
+Frame 025/060 -- State: SAFE    -- Distance: 215 px 
+Frame 026/060 -- State: SAFE    -- Distance: 220 px 
+Frame 027/060 -- State: SAFE    -- Distance: 215 px 
+Frame 028/060 -- State: SAFE    -- Distance: 201 px 
+Frame 029/060 -- State: SAFE    -- Distance: 180 px 
+Frame 030/060 -- State: SAFE    -- Distance: 154 px 
+Frame 031/060 -- State: SAFE    -- Distance: 125 px 
+Frame 032/060 -- State: WARNING -- Distance:  95 px 
+Frame 033/060 -- State: WARNING -- Distance:  69 px 
+Frame 034/060 -- State: DANGER  -- Distance:  48 px 
+Frame 035/060 -- State: DANGER  -- Distance:  34 px 
+Frame 036/060 -- State: DANGER  -- Distance:  30 px 
+Frame 037/060 -- State: DANGER  -- Distance:  34 px 
+Frame 038/060 -- State: DANGER  -- Distance:  48 px 
+Frame 039/060 -- State: WARNING -- Distance:  69 px 
+Frame 040/060 -- State: WARNING -- Distance:  95 px 
+Frame 041/060 -- State: SAFE    -- Distance: 124 px 
+Frame 042/060 -- State: SAFE    -- Distance: 154 px 
+Frame 043/060 -- State: SAFE    -- Distance: 180 px 
+Frame 044/060 -- State: SAFE    -- Distance: 201 px 
+Frame 045/060 -- State: SAFE    -- Distance: 215 px 
+Frame 046/060 -- State: SAFE    -- Distance: 220 px 
+Frame 047/060 -- State: SAFE    -- Distance: 215 px 
+Frame 048/060 -- State: SAFE    -- Distance: 201 px 
+Frame 049/060 -- State: SAFE    -- Distance: 180 px 🎉 EASTER EGG TRIGGERED
+Frame 050/060 -- State: SAFE    -- Distance: 154 px 
+Frame 051/060 -- State: SAFE    -- Distance: 125 px 
+Frame 052/060 -- State: WARNING -- Distance:  95 px 
+Frame 053/060 -- State: WARNING -- Distance:  69 px 
+Frame 054/060 -- State: DANGER  -- Distance:  48 px 
+Frame 055/060 -- State: DANGER  -- Distance:  34 px 
+Frame 056/060 -- State: DANGER  -- Distance:  30 px 
+Frame 057/060 -- State: DANGER  -- Distance:  34 px 
+Frame 058/060 -- State: DANGER  -- Distance:  48 px 
+Frame 059/060 -- State: WARNING -- Distance:  69 px 
+Frame 060/060 -- State: WARNING -- Distance:  95 px 
+
+
+Demo Summary:
+Frames: 60
+Elapsed: 4.01s
+Avg FPS: 14.96

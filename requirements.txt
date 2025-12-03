@@ -1,0 +1,16 @@
+
+# Hand-of-Sauron AR - Requirements
+# Core computer vision and mathematical libraries
+# Pin NumPy to <2 to avoid binary incompatibility with some prebuilt C extensions
+opencv-python==4.8.1.78
+numpy<2,>=1.24.3
+
+# Optional ML fallback (uncomment if needed)
+# torch==2.1.0
+# torchvision==0.16.0
+
+# For better performance (optional)
+# numba==0.58.0
+
+# For packaging (optional)
+# pyinstaller==6.1.0
