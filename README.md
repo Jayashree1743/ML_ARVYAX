@@ -1,6 +1,6 @@
-# Hand-of-Sauron AR 🚀
+# A real-time hand-tracking AR system that creates interactive holographic effects using only CPU processing
 
-> **A real-time hand-tracking AR system that creates interactive holographic effects using only CPU processing**
+
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.8+-green.svg)](https://opencv.org)
